@@ -29,3 +29,12 @@ The Financial Data Extraction Tool uses the OpenAI API to analyze news articles 
 -> Streamlit
 
 -> Pandas
+
+
+
+
+![Screenshot 2024-07-31 001802](https://github.com/user-attachments/assets/90122df6-3255-4ff5-a9cd-86bc4b0a103d)
+
+
+
+
