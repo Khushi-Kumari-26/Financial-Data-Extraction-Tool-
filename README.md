@@ -3,11 +3,11 @@ This project is a Financial Data Extraction Tool that leverages the OpenAI API t
 
 
 
-**Overview**
+## **Overview**
 
 The Financial Data Extraction Tool uses the OpenAI API to analyze news articles and extract key financial metrics such as company name, stock symbol, revenue, net income, and earnings per share (EPS). The extracted information is then displayed in a user-friendly table format using Streamlit.
 
-**Features**
+## **Features**
 
 -> Extracts financial metrics from news articles.
 
@@ -18,9 +18,9 @@ The Financial Data Extraction Tool uses the OpenAI API to analyze news articles 
 -> Handles API rate limits gracefully with retries.
 
 
-**Setup**
+## **Setup**
 
-**Prerequisites**
+### **Prerequisites**
 
 -> Python 3.10+
 
