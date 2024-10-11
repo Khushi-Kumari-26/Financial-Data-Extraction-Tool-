@@ -17,7 +17,6 @@ with col1:
         financial_data_df = helper.extract_financial_info(article)
 
 with col2:
-    st.header("Result")
    
     st.dataframe(
         financial_data_df,
