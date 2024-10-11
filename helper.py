@@ -52,9 +52,11 @@ def extract_financial_info(text):
 
 
 if __name__ == '__main__':
-    text = '''
-    Tesla's Earning news in text format: Tesla's earning this quarter blew all the estimates. They reported 4.5 billion $ profit against a revenue of 30 billion $. Their earnings per share was 2.3 $
-    '''
+    # text = '''
+    # Tesla's Earning news in text format: Tesla's earning this quarter blew all the estimates. They reported 4.5 billion $ profit against a revenue of 30 billion $. Their earnings per share was 2.3 $
+    # '''
+
+    text = input("Please enter the financial news article: ")
     df = extract_financial_info(text)
 
     print(df.to_string())
